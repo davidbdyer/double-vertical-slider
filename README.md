@@ -1,2 +1,2 @@
 # double-vertical-slider
- verticle slider, slide show
+ Fully responsive verticle slider, slide show.
